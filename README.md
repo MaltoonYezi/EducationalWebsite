@@ -1,5 +1,5 @@
-# EducationalWebsite
-Educational Website dedicated to probabilities theory and mathematical statistics, packaged with Open Server environment
+# Educational website
+Educational website dedicated to probabilities theory and mathematical statistics, packaged with Open Server environment
 Made with PHP 7.3 and MySQL
 
 #Usage
