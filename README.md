@@ -2,7 +2,8 @@
 Educational website dedicated to probabilities theory and mathematical statistics.
 Made with PHP 7.3 and MySQL
 
-#Usage with Open Server environment
+# Usage with Open Server environment
+
 To use it:
 1. Unpack the archive 
 2. Drop all files in "domains/localhost" folder
