@@ -1,8 +1,8 @@
 # Educational website
-Educational website dedicated to probabilities theory and mathematical statistics, packaged with Open Server environment
+Educational website dedicated to probabilities theory and mathematical statistics.
 Made with PHP 7.3 and MySQL
 
-#Usage
+#Usage with Open Server environment
 To use it:
 1. Unpack the archive 
 2. Start "Open Server.exe"
