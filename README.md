@@ -14,3 +14,4 @@ To use it:
 7. After the server is launched, click on "localhost" button to open the main page.
 
 The Open Server environment is compatible with Windows OS
+g
