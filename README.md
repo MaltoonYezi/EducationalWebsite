@@ -6,7 +6,7 @@ Made with PHP 7.3 and MySQL 5.7
 
 To use it:
 1. Unpack the archive 
-2. Drop all files in "domains/localhost" folder
+2. Extract all files from 3 archives to "domains/localhost" folder
 3. Import the database through PHP My Admin. Encoding: "UTF-8". The database is named "learnsite".
 4. Start "Open Server.exe"
 5. Tap on the red flag to open a pop up menu
