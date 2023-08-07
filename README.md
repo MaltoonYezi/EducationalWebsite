@@ -1,5 +1,5 @@
 # Educational website
-Educational website dedicated to probabilitY theory and mathematical statistics.
+Educational website dedicated to probability theory and mathematical statistics.
 Made with PHP 7.3 and MySQL 5.7
 
 # Usage with Open Server environment
